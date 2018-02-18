@@ -3,3 +3,16 @@ span.softskills-spacing {
     /* font-size: larger !important; */
     font-weight: bold !important; 
  }
+
+ img.logo-corner {
+    margin-left: -350px; 
+    left: 0; 
+    right: 0; 
+    bottom: 0; 
+    float:left; 
+    position:fixed; 
+    top:650px; 
+    width:200px; 
+    background:lightgrey;
+    border-radius:15px;
+ }
