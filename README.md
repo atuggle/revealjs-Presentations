@@ -4,11 +4,11 @@ reveal.js is a framework for easily creating beautiful presentations using HTML.
 
 ## List of presentations/slides in this repository
 * TDD & Fail Fast
-    * TDD-FailFast.html
+    * [TDD-FailFast.html] (./TDD-FailFast.html)
 * Soft Skills
-    * SoftSkills-Galipatia.html
+    * [SoftSkills-Galipatia.html] (./SoftSkills-Galipatia.html)
 * Agile with Trello
-    * AgileWithTrello.html
+    * [AgileWithTrello.html] (./AgileWithTrello.html)
 * Why Databases for RU
     * [DatabasesAndWhy.html](./DatabasesAndWhy.html)
 
