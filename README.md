@@ -13,6 +13,8 @@ reveal.js is a framework for easily creating beautiful presentations using HTML.
     * [DatabasesAndWhy.html](./DatabasesAndWhy.html)
 * Agile with Trello VT Capstone Software Development
     * [AgileWithTrelloVtCapstone.html](./AgileWithTrelloVtCapstone.html)
+* Agile with Trello "Boost Productivity with Proper Planning"  
+    * [SASEAgilePlanning.html](./SASEAgilePlanning.html)
 
 ## Instructions
 - Clone the repository and open one of the html pages for the respective presentation
